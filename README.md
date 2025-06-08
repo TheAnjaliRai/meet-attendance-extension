@@ -1,9 +1,12 @@
-````markdown
+
 # Google Meet Attendance Tracker (Chrome Extension)
 
 ![Image](https://github.com/user-attachments/assets/3f2f3369-6d58-40fc-99fa-86d76e0e9db6)
+
+
 A lightweight Chrome extension to track participant names in Google Meet and export to CSV.
 
+````markdown
 ---
 
 ## ✨ Features
