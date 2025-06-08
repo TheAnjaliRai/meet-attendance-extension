@@ -107,5 +107,3 @@ MIT © \[Anjali Rai]
 
 **Like this project?** ⭐ Star it on GitHub!
 
-```
-```
