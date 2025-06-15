@@ -28,7 +28,7 @@ function exportData(callback) {
         chrome.storage.local.get(['attendanceData'], (result) => {
             const data = result.attendanceData || {};
 
-            let csv = "Name\n";
+            let csv = "";
             Object.keys(data).forEach(name => {
                 const p = data[name];
                 csv += `"${name.replace(/"/g, '""')}"\n`;
